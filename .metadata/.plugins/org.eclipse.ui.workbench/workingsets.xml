@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1461900430604_0" label="microservices-statuspro" name="microservices-statuspro">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservices-statuspro-discussion-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservices-statuspro-gateway" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservices-statuspro-eureka-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservices-statuspro-ribbon-and-eureka" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservices-statuspro" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservices-statuspro-update-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/microservices-statuspro-milestone-service" type="4"/>
+</workingSet>
+</workingSetManager>

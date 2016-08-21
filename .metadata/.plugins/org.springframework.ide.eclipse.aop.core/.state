@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="microservices-statuspro-discussion-service"/>
+<aop-project name="microservices-statuspro-gateway"/>
+<aop-project name="microservices-statuspro-eureka-service"/>
+<aop-project name="microservices-statuspro-ribbon-and-eureka"/>
+<aop-project name="microservices-statuspro-update-service"/>
+<aop-project name="microservices-statuspro-milestone-service"/>
+</aop-reference-model>

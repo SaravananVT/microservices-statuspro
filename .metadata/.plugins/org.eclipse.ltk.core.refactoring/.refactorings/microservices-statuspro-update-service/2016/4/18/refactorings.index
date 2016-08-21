@@ -1,0 +1,7 @@
+1461904608884	Rename type 'Contact'
+1461904659103	Rename type 'Update'
+1461904960421	Rename type 'ContactRepository'
+1461905002324	Rename type 'ContactRestController'
+1461905022192	Rename field 'contactRepository'
+1461905378313	Rename type 'ContactServiceApplication'
+1461906367334	Copy compilation unit

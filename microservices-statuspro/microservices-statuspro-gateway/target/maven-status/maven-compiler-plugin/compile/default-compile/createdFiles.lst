@@ -1,0 +1,10 @@
+demo/DashboardService.class
+demo/Dashboard.class
+demo/Project.class
+demo/Milestone.class
+demo/ApiGatewayApplication.class
+demo/DashboardRestController.class
+demo/DiscussionClient.class
+demo/ProjectClient.class
+demo/MilestoneClient.class
+demo/Discussion.class

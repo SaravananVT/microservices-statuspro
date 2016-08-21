@@ -1,0 +1,14 @@
+1461906278287	Delete element
+1461906283900	Delete element
+1461906541609	Rename type 'BookmarkClient'
+1461906572213	Rename type 'ContactClient'
+1461906860391	Copy compilation unit
+1461906975373	Rename type 'Passport'
+1461907125391	Rename field 'contactClient'
+1461907135056	Rename field 'bookmarkClient'
+1461907156898	Rename type 'PassportService'
+1461907744100	Rename type 'PassportRestController'
+1461907763332	Rename field 'passportService'
+1461907798417	Rename local variable 'bookmarkStream'
+1461907896090	Rename local variable 'passportDeferredResult'
+1461907920344	Rename local variable 'contactStream'
